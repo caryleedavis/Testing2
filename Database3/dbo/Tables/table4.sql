@@ -1,5 +1,4 @@
-﻿CREATE TABLE [dbo].[table2] (
+﻿CREATE TABLE [dbo].[table4] (
     [id] INT IDENTITY (1, 1) NOT NULL
 );
-
 
